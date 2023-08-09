@@ -4,7 +4,6 @@ This PHP attendance system project is primarily concerned with dealing with stud
 
 ** Admin Login Details **
 * Email   : admin@mail.com
+password: Password@123
 
 
-<!-- Developed by Marylyne Mutindi -->
-<!-- github account marylyne-mutindi -->
